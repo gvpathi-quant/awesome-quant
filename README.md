@@ -24,12 +24,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Numerical Libraries & Data Structures
 
-- [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
-- [scipy](https://www.scipy.org) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-- [quantdsl](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
-- [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
-- [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics.
+- [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.  - INSTALLED.
+- [scipy](https://www.scipy.org) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. INSTALLED
+- [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. INSTALLED
+- [quantdsl](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading. INSTALLED
+- [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations. -- dep issue --
+- [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics. INSTALLED
 - [pymc3](https://docs.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
 
 ### Financial Instruments and Pricing
@@ -40,7 +40,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [QuantPy](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
 - [Finance-Python](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
 - [ffn](https://github.com/pmorissette/ffn) - A financial function library for Python.
-- [pynance](https://pynance.net) - PyNance is open-source software for retrieving, analysing and visualizing data from stock and derivatives markets.
+- [pynance](https://pynance.net) - PyNance is open-source software for retrieving, analysing and visualizing data from stock and derivatives markets. INSTALLED
 - [tia](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
 - [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 - [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quickstart to visualize data with bokeh library.
